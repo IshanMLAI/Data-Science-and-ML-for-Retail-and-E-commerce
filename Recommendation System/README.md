@@ -25,7 +25,4 @@ https://www.youtube.com/watch?v=sEx8RwvT_-8
 Ishan Jain
  
 # LinkedIn
-https://www.linkedin.com/in/ishanjainofficial/
- 
-# Medium.com
-https://medium.com/@ishanjain-ai
+https://www.linkedin.com/in/IshanAI
